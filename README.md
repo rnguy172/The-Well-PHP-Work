@@ -1,2 +1,19 @@
-# The-Well-PHP-Work
-My work as a PHP Lead! 
+# Public Health Peers (PHP) Data and Metrics Committee Lead At The Well 
+
+From September 2024 to June 2025, I was the Data and Metrics Lead for the Well’s Public Health Peers (PHP), a subcommittee within UC Riverside's mini public health department that provides equitable access to free health education, resources, and supplies. I was primarily responsible for gathering, cleaning, analyzing, interpreting, and designing data visualizations and reports for the Well and the public, showcasing PHP program performance data and trends and recommended program improvements. 
+
+The following is the master list of all my work at The Well:
+
+## Spreadsheets: 
+
+### PHP Health Supplies Inventory
+When I started my role, I noticed an absence of an organized and efficient system for entering, maintaining, updating, and documenting the performance data of The Well’s Grab-n-Go Supplies, a program that provides free health supplies to UC Riverside. As a result, I created a user-friendly Excel spreadsheet with data tables that organized and calculated the inventory and distribution of PHP health supplies. At the end of every month, I communicated with 3 volunteers to count the amount of PHP supplies in storage, and while reviewing their counts, I observed that sometimes they counted inaccurately. When there was no consensus on the count of a certain supply, I would ask my coworkers if they had taken out any PHP supplies from storage, and if they did, I would carefully recount not only the supplies miscounted by volunteers but also the supplies recently removed from storage. Then, I would enter these counts to the aforementioned spreadsheet, double checking each entry for accuracy, so that I could accurately calculate the number of PHP supplies distributed that month, analyze supply distribution trends, and notify my supervisor to make timely purchases of supplies running low or expiring soon. My efforts in recognizing, tracking, and fulfilling the community’s demands for these supplies helped contribute to a healthier campus. 
+
+### PHP Volunteer Activities Tracker 
+At The Well, volunteers assist with administrative, operational, program, and event support, enabling The Well to efficiently promote health and wellness information, resources, and services to the campus community at UC Riverside! In PHP, volunteers are expected to complete at least 10 hours per academic quarter to be considered an active volunteer. To track the earned hours and activities of each volunteer, I created, maintained, and updated spreadsheets for PHP volunteers that included a list of volunteers staffed in each PHP committee, the event or task an individual volunteered for, and the respective number of volunteer hours earned. 
+
+## Data Reports:
+At the end of every academic quarter, I designed a custom, concise, and actionable one-page data report in Canva to support The Well in developing and improving PHP’s health supplies program, volunteer program, volunteer recruitment, workshops, presentations, and campus-wide events. At the end of the academic year, I designed a 20-page annual data report and a presentation slide to summarize the performances of PHP programs throughout the 2024-2025 academic year and areas of improvements. All of these reports were posted on The Well's website for the public to view.
+
+## Process Documentations
+To streamline volunteer training, I drafted and finalized in Google Docs process documentations for each PHP volunteer task, so that volunteers can successfully complete their assigned tasks. Most notably, I created a huge process documentation for designing Mailchimp volunteer newsletters and the accompanying Google Forms quizzes. This documentation is still used by The Well to this day, allowing for volunteers to get up-to-date organization news and information and allowing the staff to check if each volunteer is reading the newsletter. 
