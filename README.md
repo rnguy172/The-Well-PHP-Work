@@ -21,3 +21,5 @@ At the end of every academic quarter, I designed a custom, concise, and actionab
 
 ## Process Documentations
 To streamline volunteer training, I drafted and finalized in Google Docs process documentations for each PHP volunteer task, so that volunteers can successfully complete their assigned tasks. Most notably, I created a huge process documentation for designing Mailchimp volunteer newsletters and the accompanying Google Forms quizzes. This documentation is still used by The Well to this day, allowing for volunteers to get up-to-date organization news and information and allowing the staff to check if each volunteer is reading the newsletter. 
+
+[Process Documentations](https://drive.google.com/drive/folders/1LSxIfeBi0sJiC7MigoDLLZQO2X8ny227?usp=sharing)
